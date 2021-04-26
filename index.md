@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /
-title: Pokémon ShiningCrystal
+title: Pokémon Shining Crystal
 
 ---
 Pokémon ShiningCrystal is a QOL hack of SoupPotato's pokecrystal Sprite Base project. It implements several features from other ROM hacks, like the Pokecom Center from Polished Crystal, and some features developed by the ShiningCrystal team just for this game. 
